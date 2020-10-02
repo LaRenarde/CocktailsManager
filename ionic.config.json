@@ -1,0 +1,7 @@
+{
+  "name": "CocktailsManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
